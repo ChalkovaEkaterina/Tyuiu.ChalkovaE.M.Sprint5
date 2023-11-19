@@ -16,9 +16,9 @@ namespace Tyuiu.ChalkovaE.M.Sprint5.Task2.V22
             Console.Title = "Спринт #5 | Выполнила: Чалкова Е. М. | ИИПб-23-2";
             Console.WriteLine("********************************************************************************");
             Console.WriteLine("* Спринт #5                                                                    *");
-            Console.WriteLine("* Тема: Класс File. Запись данных в текстовый файл                             *");
-            Console.WriteLine("* Задание #0                                                                   *");
-            Console.WriteLine("* Вариант #15                                                                  *");
+            Console.WriteLine("* Тема: Класс File. Запись структурированных данных в текстовый файл           *");
+            Console.WriteLine("* Задание #2                                                                   *");
+            Console.WriteLine("* Вариант #22                                                                  *");
             Console.WriteLine("* Выполнила Чалкова Е. М. | ИИПб-23-2                                          *");
             Console.WriteLine("********************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                     *");
