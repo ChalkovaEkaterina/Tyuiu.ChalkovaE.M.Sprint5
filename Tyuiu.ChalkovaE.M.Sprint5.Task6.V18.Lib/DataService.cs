@@ -23,9 +23,11 @@ namespace Tyuiu.ChalkovaE.M.Sprint5.Task6.V18.Lib
                 
                 while ((line = reader.ReadLine()) != null)
                 {
-                    for (int i = 0; i < line.Length; i++)
+                    string[] tutu = line.Split(' ');
+                    
+                    foreach (string value in tutu)
                     {
-                        if (num.Contains("" + line[i]))
+                        if ((value.All(char.IsDigit)) && value.Length == 1)
                         {
                             count++;
                         }
